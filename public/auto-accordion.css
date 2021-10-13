@@ -16,7 +16,7 @@
   max-height: 79px;
 }
 
-@media screen and (max-width: 1269px) {
+@media screen and (max-width: 992px) {
   .auto-accordion {
     display: block;
     position: relative;
@@ -90,7 +90,7 @@
   max-height: 1000px;
 }
 
-@media screen and (min-width: 1269px) {
+@media screen and (min-width: 992px) {
   .auto-accordion .accordion-item.is-active {
     border-radius: 8px 8px 0px 0px;
   }
@@ -225,7 +225,6 @@
 
 .auto-accordion .accordion-footer .icon {
   margin-right: 21px;
-  padding-top: 3px;
 }
 
 .auto-accordion .accordion-footer * {

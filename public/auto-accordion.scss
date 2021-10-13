@@ -1,4 +1,4 @@
-$mobile-breakpoint: 1269px;
+$mobile-breakpoint: 992px;
 $tabs-transition: all 0.45s ease-in-out;
 
 $colors: (
@@ -101,7 +101,7 @@ $colors: (
       }
       .timer-bg {
         z-index: 0;
-        //background: rgba(0, 0, 0, 0.287);
+        background: rgba(0, 0, 0, 0.287);
       }
     }
   }
