@@ -26,7 +26,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="https://dev-energyweb.pantheonsite.io/what-we-do#technology" target="_parent">Read More</a>
+            <a href="https://www.energyweb.org/what-we-do#technology" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -44,7 +44,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="./what-we-do#projects-map" target="_parent">Read More</a>
+            <a href="https://www.energyweb.org/what-we-do#projects-map" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -62,7 +62,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="./what-we-do#case-studies" target="_parent">Read More</a>
+            <a href="https://www.energyweb.org/what-we-do#case-studies" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -80,7 +80,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="./what-we-do#section-1507-7063" target="_parent">Read More</a>
+            <a href="https://www.energyweb.org/what-we-do#section-1507-7063" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
