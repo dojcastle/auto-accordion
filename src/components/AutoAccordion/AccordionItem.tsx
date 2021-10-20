@@ -17,7 +17,7 @@ export default function AccordionItem(props: AccordionItemProps) {
       const { interval, current, isPlaying } = accordionState;
       if (sliderRef.current && isPlaying) {
         if (current === props.index) {
-          sliderRef.current.style.transitionTimingFunction = "ease-in-out";
+          sliderRef.current.style.transitionTimingFunction = "linear";
           sliderRef.current.style.transitionDuration = interval / 1000 + "s";
           sliderRef.current.style.width = "100%";
         } else {

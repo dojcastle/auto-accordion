@@ -11,7 +11,7 @@ import { ReactComponent as Arrow } from "./icons/arrow.svg";
 
 function App() {
   return (
-    <AutoAccordion interval={9000} autoplay={true}>
+    <AutoAccordion interval={7000} autoplay={true}>
       <AccordionItem>
         <AccordionTitle icon={<Icon icon={<TechnIcon />} />}>
           Technology
@@ -26,7 +26,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="/">Read More</a>
+            <a href="./what-we-do#technology" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -44,7 +44,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="/">Read More</a>
+            <a href="./what-we-do#projects-map" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -62,7 +62,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="/">Read More</a>
+            <a href="./what-we-do#case-studies" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
@@ -80,7 +80,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="/">Read More</a>
+            <a href="./what-we-do#section-1507-7063" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
