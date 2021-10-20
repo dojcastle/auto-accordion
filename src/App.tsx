@@ -26,7 +26,7 @@ function App() {
             </p>
           </div>
           <AccordionFooter icon={<Icon icon={<Arrow />} />}>
-            <a href="./what-we-do#technology" target="_parent">Read More</a>
+            <a href="https://dev-energyweb.pantheonsite.io/what-we-do#technology" target="_parent">Read More</a>
           </AccordionFooter>
         </AccordionContent>
       </AccordionItem>
