@@ -238,4 +238,8 @@
   text-transform: uppercase;
   text-decoration: none;
 }
+
+a:hover {
+  opacity: 0.8;
+}
 /*# sourceMappingURL=auto-accordion.css.map */

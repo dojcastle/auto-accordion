@@ -18,7 +18,7 @@ function App() {
         </AccordionTitle>
         <AccordionContent>
           <div>
-            <h1>We develop open source Technology</h1>
+            <h1>We develop open source technology</h1>
             <p>
               The EW-STACK is a suite of open source tools built on top of the
               Energy Web Chain, the world’s first public, enterprise-grade
@@ -72,7 +72,7 @@ function App() {
         </AccordionTitle>
         <AccordionContent>
           <div>
-            <h1>We also continuosly do R&D Innovation</h1>
+            <h1>We also continuously do R&D Innovation</h1>
             <p>
               The energy transition can’t be solved with old thinking. We are
               always experimenting, creating and improving the EW Stack with the
